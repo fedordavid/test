@@ -1,4 +1,4 @@
-﻿using System;
+﻿ausing System;
 using System.Security.Cryptography;
 
 namespace ConsoleApp2.Model
@@ -9,5 +9,6 @@ namespace ConsoleApp2.Model
         public string HospitalName { get; set; }
         
         public string Address { get; set; }
+        public string Gift { get; set; }
     }
 }
