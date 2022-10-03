@@ -1,9 +1,11 @@
 ﻿using System;
+using System.Security.Cryptography;
 
 namespace ConsoleApp2.Model
 {
     public class Hospital
     {
         public int Id { get; set; }
+        public string HospitalName { get; set; }
     }
 }
