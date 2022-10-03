@@ -7,8 +7,8 @@ namespace ConsoleApp2.Model
     {
         public int Id { get; set; }
         public string HospitalName { get; set; }
-        
         public string Address { get; set; }
         public string Gift { get; set; }
+        public string Age { get; set; }
     }
 }
