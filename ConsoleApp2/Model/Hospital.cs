@@ -9,5 +9,6 @@ namespace ConsoleApp2.Model
         public string HospitalName { get; set; }
         
         public string Address { get; set; }
+        public string Age { get; set; }
     }
 }
